@@ -2,3 +2,4 @@ aiomqtt==2.1.0
 bleak==0.14.3
 crcmod==1.7
 dbus-next==0.2.3
+paho-mqtt<3.0.0
