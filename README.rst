@@ -31,6 +31,14 @@ Installation
 
     $ pip install git+https://github.com/ftrueck/bluetti_mqtt
 
+
+Connection Problems
+-------------------
+
+Please make sure bluez is installed and working.
+
+
+
 Usage
 -----
 
